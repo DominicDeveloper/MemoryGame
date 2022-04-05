@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="night_mode">Night mode</string>
+    <string name="light_mode">Light mode</string>
+</resources>

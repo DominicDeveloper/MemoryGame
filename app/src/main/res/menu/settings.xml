@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nightmode"
+        android:title="@string/night_mode"/>
+    <item
+        android:id="@+id/lightmode"
+
+        android:title="@string/light_mode"/>
+
+</menu>
